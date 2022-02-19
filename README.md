@@ -9,7 +9,7 @@
  
 ## Apoio:
     * Slides - Aulas - TADS = https://drive.google.com/drive/folders/1mYYPou0bxbw2Pl73UvMdkd9nDDK6pG3D?usp=sharing
-         - Github da professora (Autora do Slides e dos Exemplos desse repositorio): https://github.com/lauraemmanuella
+         - Github da professora (Autora dos Slides e Exemplos desse repositorio): https://github.com/lauraemmanuella
          
     * Programação_Dinamica = https://www.youtube.com/watch?v=BRPUA0EgS4I&list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6&ab_channel=Programa%C3%A7%C3%A3oDin%C3%A2mica
     * Devmedia = https://www.devmedia.com.br/guia/guia-completo-de-sql/38314
