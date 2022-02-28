@@ -1,5 +1,6 @@
 # SQL_Experimentos
     * Objetivo: Desenvolver bancos experimentais para pratica e revisão de técnicas aprendidas;
+    * Foco: Modelo Entidade-Relacionamento
     * Ferramentas:
         - lucid.app = Diagramação Logica e conceitual do Banco
         - SGBD - MySQL = Pratica e Desenvolvimento do Modelo Fisico;
@@ -8,6 +9,7 @@
     * https://dev.mysql.com/doc/refman/8.0/en/database-use.html
  
 ## Apoio:
+    * Livro: https://drive.google.com/file/d/1ocH9oDrsy8VMppTGJI9HBnncT_ADR-pv/view?usp=sharing
     * Slides - Aulas - TADS = https://drive.google.com/drive/folders/1mYYPou0bxbw2Pl73UvMdkd9nDDK6pG3D?usp=sharing
          - Github da professora (Autora dos Slides e Exemplos desse repositorio): https://github.com/lauraemmanuella
          
